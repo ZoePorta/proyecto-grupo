@@ -1,0 +1,4 @@
+Gato
+Perro
+Ratón
+Serpiente
