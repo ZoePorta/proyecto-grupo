@@ -1,3 +1,8 @@
 tomates
 lechuga
 pan
+tortilla
+
+aceite
+leche
+pienso
